@@ -53,9 +53,10 @@ body{
     width: 550px;
 }
 .form button{
-    font-size: 30px;
-    width: 250px;
+    font-size: 25px;
+    width: 180px;
     background-color: red;
     border: none;
     color: white;
+    border-radius: 5%;
 }
